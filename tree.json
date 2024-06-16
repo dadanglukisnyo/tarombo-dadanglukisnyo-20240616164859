@@ -1,0 +1,99 @@
+{
+  "families": [
+    {
+      "childRefs": [
+        {
+          "ref": "I2*175068cb-6595-4603-a9fa-0dc13790383f"
+        },
+        {
+          "ref": "I3*41a2c917-6322-4e6d-bc76-4346635e60d0"
+        }
+      ],
+      "husbandRefs": [
+        {
+          "ref": "I1*7e603291-4e30-451a-bc76-e031dadf7bab"
+        }
+      ],
+      "id": "F1*d5e444ef-37ae-4c5d-917a-a8355424d0cf"
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "16:48:00",
+      "value": "16 JUN 2024"
+    },
+    "file": "13.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.0 (511321d)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*d5e444ef-37ae-4c5d-917a-a8355424d0cf"
+        }
+      ],
+      "id": "I1*7e603291-4e30-451a-bc76-e031dadf7bab",
+      "names": [
+        {
+          "value": "Parent1 /Collab/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*d5e444ef-37ae-4c5d-917a-a8355424d0cf"
+        }
+      ],
+      "id": "I2*175068cb-6595-4603-a9fa-0dc13790383f",
+      "names": [
+        {
+          "value": "Child /Collab/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*d5e444ef-37ae-4c5d-917a-a8355424d0cf"
+        }
+      ],
+      "id": "I3*41a2c917-6322-4e6d-bc76-4346635e60d0",
+      "names": [
+        {
+          "value": "Child2 /Collab/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    }
+  ]
+}
