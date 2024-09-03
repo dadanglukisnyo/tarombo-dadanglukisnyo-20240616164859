@@ -71,20 +71,11 @@
       ],
       "eventsFacts": [
         {
-          "tag": "SEX",
-          "value": "M"
-        },
-        {
-          "date": "",
-          "place": "",
-          "tag": "BIRT"
-        },
-        {
-          "date": "",
-          "place": "",
-          "tag": "DEAT"
+          "tag": "_PRIV",
+          "value": ""
         }
-      ]
+      ],
+      "media": []
     },
     {
       "famc": [
@@ -100,8 +91,31 @@
       ],
       "eventsFacts": [
         {
-          "tag": "_PRIV",
-          "value": ""
+          "tag": "SEX",
+          "value": "F",
+          "sourceCitations": [],
+          "media": [],
+          "mediaRefs": [],
+          "noteRefs": [],
+          "notes": []
+        },
+        {
+          "tag": "BIRT",
+          "value": "Y",
+          "sourceCitations": [],
+          "media": [],
+          "mediaRefs": [],
+          "noteRefs": [],
+          "notes": []
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y",
+          "sourceCitations": [],
+          "media": [],
+          "mediaRefs": [],
+          "noteRefs": [],
+          "notes": []
         }
       ],
       "media": []
