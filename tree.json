@@ -100,18 +100,11 @@
       ],
       "eventsFacts": [
         {
-          "tag": "SEX",
-          "value": "F"
-        },
-        {
-          "tag": "BIRT",
-          "value": "Y"
-        },
-        {
-          "tag": "DEAT",
-          "value": "Y"
+          "tag": "_PRIV",
+          "value": ""
         }
-      ]
+      ],
+      "media": []
     }
   ]
 }
