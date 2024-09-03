@@ -73,6 +73,16 @@
         {
           "tag": "SEX",
           "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "DEAT"
         }
       ]
     },
@@ -92,6 +102,14 @@
         {
           "tag": "SEX",
           "value": "F"
+        },
+        {
+          "tag": "BIRT",
+          "value": "Y"
+        },
+        {
+          "tag": "DEAT",
+          "value": "Y"
         }
       ]
     }
